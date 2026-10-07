@@ -1,0 +1,2 @@
+class MainPageLocators:
+    TITLE = "Google"
