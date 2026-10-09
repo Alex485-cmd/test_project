@@ -1,0 +1,10 @@
+CSS локаторы
+
+* Имя пользователя
+input[data-test="username"]
+
+* Пароль
+input[data-test="password"]
+
+* Кнопка ввода
+input[data-test="login-button"]
