@@ -1,11 +1,11 @@
 \# Test Project
 
+<<<<<<< Updated upstream
+=======
 
 
-Автотесты: API (requests) + Web (Selenium).
 
-
-
+>>>>>>> Stashed changes
 \## Запуск
 
 
@@ -14,18 +14,18 @@
 
 &#x20;  - Windows: `.venv\\Scripts\\activate`
 
-&#x20;  - macOS/Linux: `source .venv/bin/activate`
+<<<<<<< Updated upstream
 
 2\. Установить зависимости: `pip install -r requirements.txt`
 
-3\. Запустить все тесты: `pytest`
-
-4\. Только API-тесты: `pytest api\_tests/`
-
-5\. Только Selenium-тесты: `pytest selenium\_tests/`
+=======
 
 
+2\. Установить зависимости: `pip install -r requirements.txt`
 
+
+
+>>>>>>> Stashed changes
 \## Структура
 
 
