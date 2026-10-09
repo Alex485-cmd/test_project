@@ -1,5 +1,11 @@
 \# Test Project
 
+<<<<<<< Updated upstream
+=======
+
+
+
+>>>>>>> Stashed changes
 \## Запуск
 
 
@@ -8,9 +14,18 @@
 
 &#x20;  - Windows: `.venv\\Scripts\\activate`
 
+<<<<<<< Updated upstream
 
 2\. Установить зависимости: `pip install -r requirements.txt`
 
+=======
+
+
+2\. Установить зависимости: `pip install -r requirements.txt`
+
+
+
+>>>>>>> Stashed changes
 \## Структура
 
 
