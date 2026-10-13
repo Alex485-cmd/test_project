@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","106","Очистка корзины от товара","selenium_tests.tests.cart","2026-10-13","passed","2026-10-13","TestCart","Корзина и оформление заказа","",""
+"","757","test_unsuccessful_auth","selenium_tests.tests.auth","2026-10-13","passed","2026-10-13","","Авторизация","",""
+"","787","Успешная покупка товара","selenium_tests.tests.purchase","2026-10-13","passed","2026-10-13","TestCheckout","Корзина и оформление заказа","",""
